@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="start">START</string>
+    <string name="EXIT">EXIT</string>
+    <string name="Callculater">Callculater</string>
+    <string name="back">back</string>
+    <string name="Exit">Exit</string>
+    <string name="weight_kg">weight KG.</string>
+    <string name="hight_cm">Hight CM.</string>
 
 </resources>

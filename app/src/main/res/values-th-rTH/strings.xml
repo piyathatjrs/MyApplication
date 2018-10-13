@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start">เริ่ม</string>
+    <string name="EXIT">ออก</string>
+    <string name="Callculater">คำนวณ</string>
+    <string name="back">กลับ</string>
+    <string name="Exit">ออก</string>
+    <string name="weight_kg">ส่วนสูง ซม.</string>
+    <string name="hight_cm">น้ำหนัก กก.</string>
+</resources>
